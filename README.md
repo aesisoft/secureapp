@@ -47,7 +47,7 @@ ___
 
 ## Paramétrage de PHP.ini
 
-Pour chiffre/déchiffrer les DCP, il faut activer la bibliothèque ***libsodium*** disponible à partir de la version PHP 7.2 :
+Pour chiffrer/déchiffrer les DCP, il faut activer la bibliothèque ***libsodium*** disponible à partir de la version PHP 7.2 :
 
 ```INI
 extension=sodium
