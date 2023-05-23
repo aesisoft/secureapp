@@ -12,6 +12,8 @@ Il est nécessaire d'avoir un serveur Apache2 avec PHP de version minimum 8.1.<b
 Il faut également une base de données MySQL ou MariaDB et un client du type PhpMyAdmin.<br/>
 La version de Symfony utilisée pour créer ce projet est 6.2, celle de Composer est 2.5.5.
 
+Pour une version précédente : https://github.com/aesisoft/secureappold
+
 ## Installation
 
 1. Cloner l'application en local
