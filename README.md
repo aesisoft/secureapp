@@ -43,6 +43,8 @@ Pour une version précédente : https://github.com/aesisoft/secureappold
     php bin/console doctrine:fixtures:load
     ```
 
+S'il manque le dossier "migrations", créez-le à la racine du projet ...
+
 ___
 
 ## Paramétrage de PHP.ini
